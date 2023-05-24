@@ -3,4 +3,4 @@
 * programmer 
 * Smart Worker
 * Problem Solver
-* Currently Learning DSA,advanced python,RPA,and some tools.
+* Currently Learning DSA, python,RPA,and some tools.
